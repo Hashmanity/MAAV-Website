@@ -1,5 +1,6 @@
 # MAAV-Website
-##Instructions for adding and contributing
+## Instructions for adding and contributing
+
 As of now all the code is contained in index.html, we may want to change that going forward in the future.
 
 To view the code use your browser to locate the local file, or..
